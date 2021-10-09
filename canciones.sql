@@ -1,0 +1,1 @@
+SELECT * FROM larockola_db.canciones;
